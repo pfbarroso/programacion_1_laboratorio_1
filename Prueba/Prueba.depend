@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521470175 source:c:\test\barroso\prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+
