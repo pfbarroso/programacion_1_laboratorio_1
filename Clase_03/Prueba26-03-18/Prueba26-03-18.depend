@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522075881 source:c:\test\barroso\prueba26-03-18\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
